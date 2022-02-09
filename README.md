@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone! 👋
 
 <!--
 **snder12/snder12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently studying on Bangkit 2022!
+- 🌱 I’m currently learning Machine Learning
+- 📫 How to reach me: 
+  * Email : snder12nr@gmail.com
+  * [Instagram](https://www.instagram.com/sanpetod)
+  * [Twitter](https://www.twitter.com/sanpetod)
+  * [LinkedIn](https://www.linkedin.com/in/sandi-yusuf-24941a21a/)
