@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   * [Twitter](https://www.twitter.com/sanpetod)
   * [LinkedIn](https://www.linkedin.com/in/sandi-yusuf-24941a21a/)
 
+### My Github Statistics
 <p align="left">
 <a href="https://github.com/gilangadhan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=snder12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
