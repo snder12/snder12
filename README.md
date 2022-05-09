@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on Bangkit 2022!
 - 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me: 
-  * Email : snder12nr@gmail.com
-  * [Instagram](https://www.instagram.com/sanpetod)
-  * [Twitter](https://www.twitter.com/sanpetod)
-  * [LinkedIn](https://www.linkedin.com/in/sandi-yusuf-24941a21a/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
