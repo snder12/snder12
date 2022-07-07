@@ -23,16 +23,19 @@ Here are some ideas to get you started:
 
 
 ### Connect with me:
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/sandi-yusuf-24941a21a/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandi-yusuf-24941a21a" height="30" width="40" />
   </a>
   <a href="https://instagram.com/sanpetod" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanpetod" height="30" width="40" />
     </a>
+    <a>
+      ![](https://visitor-badge.glitch.me/badge?page_id=snder12.snder12)
+    </a>
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=snder12.snder12)
+
 
 ### My Statistics:
 <p>
