@@ -27,10 +27,12 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=snder12.snder12)
 
 ### My Statistics:
-<p align="left">
-<a href="https://github.com/gilangadhan">
+<p>
+<a href="https://github.com/snder12">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=snder12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=snder12&show_icons=true&locale=en" alt="snder12" /></p>
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snder12&show_icons=true&locale=en" alt="snder12" />
 </a>
 </p>
 
