@@ -30,12 +30,9 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/sanpetod" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanpetod" height="30" width="40" />
     </a>
-    <a>
-      ![](https://visitor-badge.glitch.me/badge?page_id=snder12.snder12)
-    </a>
 </p>
 
-
+![](https://visitor-badge.glitch.me/badge?page_id=snder12.snder12)
 
 ### My Statistics:
 <p>
