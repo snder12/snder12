@@ -14,12 +14,12 @@
 ### My Statistics:
 
 <p>
-  <!-- <a href="https://github.com/snder12">
+  <a href="https://github.com/snder12">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=snder12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a> -->
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=snder12&show_icons=true&locale=en" alt="snder12" />
   </a>
+  <!-- <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=snder12&show_icons=true&locale=en" alt="snder12" />
+  </a> -->
 </p>
 
 <p>
