@@ -1,27 +1,3 @@
-## Hi everyone! 👋
-
-### Interested in:
-
-- Data Science
-- Machine Learning
-- Deep Learning
-
-<!--
-**snder12/snder12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently studying on Bangkit 2022!
-- 🌱 I’m currently learning Machine Learning
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Connect with me:
 
 <p>
