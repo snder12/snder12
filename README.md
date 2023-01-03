@@ -26,4 +26,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snder12&show_icons=true&locale=en&layout=compact" alt="snder12" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=snder12)](https://git.io/streak-stats)
